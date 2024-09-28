@@ -1,7 +1,7 @@
 package com.devsouzx.email_service.apllication;
 
 import com.devsouzx.email_service.adapters.EmailSenderGateway;
-import com.devsouzx.email_service.core.EmailSenderUseCase;
+import com.devsouzx.email_service.core.cases.EmailSenderUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
